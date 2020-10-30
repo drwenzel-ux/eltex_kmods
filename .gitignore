@@ -9,5 +9,5 @@
 *.mod.c
 *.mod.o
 *.o
-Modules.symvers
+Module.symvers
 modules.order
